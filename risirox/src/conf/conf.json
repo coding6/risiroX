@@ -1,0 +1,10 @@
+{
+  "Name": "risiroX",
+  "Host": "127.0.0.1",
+  "Port": 8999,
+  "MaxConn": 100000,
+  "MaxPackageSize": 4096,
+  "WorkerPoolSize": 10,
+  "MaxWorkerPoolSize": 15,
+  "MaxWorkerTaskQueueLen": 1024
+}
